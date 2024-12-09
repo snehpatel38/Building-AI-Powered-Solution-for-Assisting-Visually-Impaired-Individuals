@@ -21,7 +21,7 @@ Visual Assistance AI is a powerful application designed to assist visually impai
 - **Pyttsx3**: Text-to-speech conversion.
 - **Python**: Core programming language.
 
-## **Take care of these**
+## **Set Up (Only important)**
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
@@ -32,24 +32,8 @@ Visual Assistance AI is a powerful application designed to assist visually impai
 3. Set up Google Generative AI API key:
    - Replace `YOUR_API_KEY` in the code with your API key.
 
-4. Run the application:
-   ```bash
-   streamlit run app.py
-   ```
-
-## **Usage**
+## 🚀 **How It Works**
 1. Upload an image in the supported formats (PNG, JPG, JPEG).
 2. View the generated scene analysis, extracted text, and identified objects.
 3. Listen to the extracted text using the text-to-speech feature.
 4. Get personalized task recommendations based on the uploaded image.
-
-## **Future Enhancements**
-- Integrate a real-time object detection model.
-- Enhance text-to-speech capabilities with multilingual support.
-- Add video processing for continuous assistance.
-
-## **Contributors**
-- Your Name (add your email and GitHub profile)
-
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for more details.
