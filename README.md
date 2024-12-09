@@ -50,12 +50,6 @@ Visual Assistance AI is a powerful application designed to assist visually impai
 - Enhance text-to-speech capabilities with multilingual support.
 - Add video processing for continuous assistance.
 
-## **Requirements**
-All required Python libraries are listed in the `requirements.txt` file. To install them, use:
-```bash
-pip install -r requirements.txt
-```
-
 ## **Contributors**
 - Your Name (add your email and GitHub profile)
 
