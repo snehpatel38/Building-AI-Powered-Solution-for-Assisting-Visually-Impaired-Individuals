@@ -21,23 +21,18 @@ Visual Assistance AI is a powerful application designed to assist visually impai
 - **Pyttsx3**: Text-to-speech conversion.
 - **Python**: Core programming language.
 
-## **Installation**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/Visual-Assistance-AI.git
-   cd Visual-Assistance-AI
-   ```
-2. Install dependencies:
+## **Take care of these**
+1. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Additional dependencies:
+2. Additional dependencies:
    - Install the Py-Tesseract from https://github.com/UB-Mannheim/tesseract/wiki
      
-4. Set up Google Generative AI API key:
+3. Set up Google Generative AI API key:
    - Replace `YOUR_API_KEY` in the code with your API key.
 
-5. Run the application:
+4. Run the application:
    ```bash
    streamlit run app.py
    ```
