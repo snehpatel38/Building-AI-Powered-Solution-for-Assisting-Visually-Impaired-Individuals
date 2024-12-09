@@ -31,10 +31,13 @@ Visual Assistance AI is a powerful application designed to assist visually impai
    ```bash
    pip install -r requirements.txt
    ```
-3. Set up Google Generative AI API key:
+3. Additional dependencies:
+   - Install the Py-Tesseract from https://github.com/UB-Mannheim/tesseract/wiki
+     
+4. Set up Google Generative AI API key:
    - Replace `YOUR_API_KEY` in the code with your API key.
 
-4. Run the application:
+5. Run the application:
    ```bash
    streamlit run app.py
    ```
