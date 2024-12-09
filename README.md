@@ -6,14 +6,14 @@ Empowering Vision through Artificial Intelligence.
 ## **Overview**
 Visual Assistance AI is a powerful application designed to assist visually impaired individuals by analyzing images and providing detailed insights through generative AI, text extraction, and personalized task guidance.
 
-## **Features**
+## 🔧 **Features**
 - **Scene Understanding**: Generates comprehensive scene descriptions using Google Generative AI.
 - **Text Extraction**: Extracts text from images using Tesseract OCR.
 - **Object Detection**: Identifies objects and their characteristics in images.
 - **Task Assistance**: Offers practical, context-specific advice for navigation and interaction.
 - **Text-to-Speech**: Converts text into speech for auditory assistance.
 
-## **Technologies Used**
+## 🧠 **Technologies Used**
 - **Streamlit**: Interactive web app framework.
 - **Google Generative AI**: For detailed scene analysis and object detection.
 - **Tesseract OCR**: Text extraction from images.
@@ -21,7 +21,7 @@ Visual Assistance AI is a powerful application designed to assist visually impai
 - **Pyttsx3**: Text-to-speech conversion.
 - **Python**: Core programming language.
 
-## **Set Up (Only important)**
+## 🌐 **Set Up (Only important part)**
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
