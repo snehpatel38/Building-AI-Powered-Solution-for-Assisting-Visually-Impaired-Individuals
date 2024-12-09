@@ -1,0 +1,7 @@
+streamlit==1.27.2
+google-generativeai
+opencv-python==4.8.0.74
+pytesseract==0.3.10
+numpy==1.26.0
+Pillow==10.0.1
+pyttsx3==2.90
